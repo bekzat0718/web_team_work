@@ -68,6 +68,7 @@ a {
     text-align: center;
     color: var(--font-clr);
 }
+li {list-style:none}
 ul {
     display: flex;
     align-items: center;
